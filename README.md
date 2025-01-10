@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khraizer&label=Profile%20views&color=0e75b6&style=flat" alt="khraizer" /> </p>
 
 
-- 🌱 I’m currently learning **Java - JavaScript**
+- 🌱 I’m currently learning **Javascript - Laravel**
 
 - 💬 Ask me about **HTML - CSS - PHP - SQL**
 
