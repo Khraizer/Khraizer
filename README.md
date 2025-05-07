@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Miguel Ararat</h1>
-<h3 align="center">I am a software development student, currently in my six quarter. I am passionate about BackEnd development and I am looking to delve deeper into this field.</h3>
+<h3 align="center">I am a software development student, currently in my seventh quarter. I am passionate about BackEnd development and I am looking to delve deeper into this field.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khraizer&label=Profile%20views&color=0e75b6&style=flat" alt="khraizer" /> </p>
 
 
-- 🌱 I’m currently learning **Javascript - Laravel**
+- 🌱 I’m currently learning **Data Science - Python**
 
 - 💬 Ask me about **HTML - CSS - PHP - SQL - JS**
 
