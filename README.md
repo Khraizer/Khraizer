@@ -6,7 +6,7 @@
 
 I'm a **backend developer** focused on Java, with solid skills in data structures, processing, and analysis. I apply principles like **Hexagonal Architecture**, DDD, SOLID, and use tools like **Spring Boot**, Laravel, and JPA for clean, scalable applications. I'm also familiar with **Python** data tools like Pandas and Scikit-learn, and have experience working in Agile teams focused on clean code and maintainability.
 
-- 🔭 I’m currently working on: [Personal Fitness Tracker](https://github.com/Khraizer/personal-fitness-tracker)
+- 🔭 I’m currently working on: [School System](https://github.com/Khraizer/school-system)
 - 🌱 Currently learning:
   - Java and Spring Boot
   - Software Architectures
